@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89f52383.css",
+    "main.js": "/static/js/main.12d29dd1.js",
+    "static/media/Inter-VariableFont_slnt,wght.ttf": "/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
+    "static/media/blurry1.webp": "/static/media/blurry1.6f72200c8b0f43de9ed0.webp",
+    "static/media/blurry2.webp": "/static/media/blurry2.2ba0f426d4c65f0e0cf7.webp",
+    "index.html": "/index.html",
+    "main.89f52383.css.map": "/static/css/main.89f52383.css.map",
+    "main.12d29dd1.js.map": "/static/js/main.12d29dd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89f52383.css",
+    "static/js/main.12d29dd1.js"
+  ]
+}
